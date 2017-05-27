@@ -2,12 +2,13 @@
   "scripts": {
     "build": "webpack",
     "client": "webpack-dev-server --port 1234"
-},
+  },
   "dependencies": {
     "ace-css": "1.1",
     "css-loader": "^0.28.0",
     "elm-webpack-loader": "^4.3.0",
     "file-loader": "^0.11.1",
+    "font-awesome": "^4.7.0",
     "style-loader": "^0.16.1",
     "url-loader": "^0.5.8",
     "webpack": "^2.3.2",
