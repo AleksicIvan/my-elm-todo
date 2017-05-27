@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "Like GitHub, but for Elm stuff.",
-    "repository": "https://github.com/rtfeldman/elm-workshop.git",
+    "summary": "Small, non-persistane todo done in Elm.",
+    "repository": "https://github.com/AleksicIvan/my-elm-todo",
     "license": "BSD-3-Clause",
     "source-directories": [
         "src"
